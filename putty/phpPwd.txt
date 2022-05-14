@@ -1,0 +1,9 @@
+password for db-
+AhPlJhF6Tehv
+
+forproj-
+http://3.111.197.83/Blood-Bank-Management-System/blood_bank/
+
+http://localhost:8888/phpmyadmin/index.php?route=/sql&server=1&db=blood_bank&table=member&pos=0
+
+https://github.com/Jaishree18/Blood-Bank-Management-System
